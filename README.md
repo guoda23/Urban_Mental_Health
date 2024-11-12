@@ -1,1 +1,1 @@
-# Bachelor-Thesis-Digital-Appendix
+# Master thesis project: analysis of social networks of depressed patients
